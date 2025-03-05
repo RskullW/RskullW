@@ -13,7 +13,7 @@
 
 </p>
 
-Вы можете ознакомиться с моими проектами на моем [![Сайте резюме](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82%D0%B5-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-brightgreen)](http://kovtun-anton-resume.tilda.ws/). Здесь вы найдете подробную информацию о моих проектах, опыте и навыках.
+Вы можете ознакомиться с моими проектами на моем [![Сайте резюме](https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82%D0%B5-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-brightgreen)](https://a-kovtun.tilda.ws/). Здесь вы найдете подробную информацию о моих проектах, опыте и навыках.
 
 Одностраничный CV: [клик](https://drive.google.com/file/d/1eBe9DoIlaHWM2WTzIL29mgqyW8SEY1DI/view?clckid=6580cae0)
 ## Обо мне
